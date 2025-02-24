@@ -1,5 +1,5 @@
 # Hello 👋, eu sou o João Haas!
-📚 Estudante de Engenharia de Software - Biopark Educação<br>💻 No momento estou estudando o framework Laravel<br>🎤 Gosto de cantar.<br>
+📚 Estudante de Engenharia de Software - Biopark Educação<br>💻 No momento estou estudando o framework Laravel<br>🎤 Gosto de cantar<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaovhaas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haasjoao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haaszcomercial@gmail.com) 
 
