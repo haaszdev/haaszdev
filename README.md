@@ -9,6 +9,3 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,c,php,java,flutter,laravel,mysql,mongodb,nodejs,nestjs,nextjs,prisma,rabbitmq,vue,npm,grafana,git,github,firebase,figma,docker,dotnetcore" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haaszdev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
