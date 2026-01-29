@@ -6,7 +6,7 @@
 
 # 💻 Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,c,php,java,flutter,laravel,mysql,mongodb,nodejs,prisma,rabbitmq,vue,npm,grafana,git,github,firebase,figma,docker,dotnetcore" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,c,php,java,flutter,laravel,mysql,mongodb,nodejs,nestjs,nextjs,prisma,rabbitmq,vue,npm,grafana,git,github,firebase,figma,docker,dotnetcore" />
 </p>
 
 # 📊 GitHub Stats:
